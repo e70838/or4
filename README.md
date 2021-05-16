@@ -34,3 +34,5 @@ On remonte tout sous github:
     git commit -m "first commit"
     git remote add origin git@github.com:e70838/or4.git
     git push -u origin master
+
+totolitto
